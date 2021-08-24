@@ -1,3 +1,4 @@
 __pyscache__
 .env
 00**.py
+__pycache__/000**.py
