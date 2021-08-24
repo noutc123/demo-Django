@@ -1,0 +1,1148 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"M",
+				"MyHome237/\t  File"
+			],
+			[
+				"Mo",
+				"ModelForm\t  Class"
+			],
+			[
+				"Loge",
+				"Logement\t  Class"
+			],
+			[
+				"Hote",
+				"HoteAdmin"
+			],
+			[
+				"Logement",
+				"LogementForm\t  Class"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"Lo",
+				"LogoutView\t  Class"
+			],
+			[
+				"a",
+				"adresse\t  Reference"
+			],
+			[
+				"L",
+				"LogementForm\t  Class"
+			],
+			[
+				"Aper",
+				"ApercusForm\t  Class"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"A",
+				"ApercusForm\t  Class"
+			],
+			[
+				"fo",
+				"formset\t  Reference"
+			],
+			[
+				"f",
+				"formset"
+			],
+			[
+				"Log",
+				"LoginRequiredMixin\t  Module"
+			],
+			[
+				"form",
+				"formset"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"cl",
+				"clean_chambre"
+			],
+			[
+				"nom",
+				"nombre_chambre"
+			],
+			[
+				"cha",
+				"chambre"
+			],
+			[
+				"va",
+				"ValidationError\t  Module"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"ful",
+				"full_name"
+			],
+			[
+				"req",
+				"request\t  Variable"
+			],
+			[
+				"mes",
+				"message\t  Variable"
+			],
+			[
+				"messa",
+				"message_subject\t  Variable"
+			],
+			[
+				"urlsafe",
+				"urlsafe_base64_encode\t  Auto-import"
+			],
+			[
+				"dom",
+				"domain_url\t  Variable"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"nout",
+				"noutvan2"
+			],
+			[
+				"aut",
+				"AuthenticationForm\t  Auto-import"
+			],
+			[
+				"pass",
+				"password\t  Variable"
+			],
+			[
+				"auth",
+				"authenticate\t  Function"
+			],
+			[
+				"re",
+				"request\t  Variable"
+			],
+			[
+				"lo",
+				"login\t  Function"
+			],
+			[
+				"from",
+				"from_email\t  Variable"
+			],
+			[
+				"htm",
+				"html_content\t  Variable"
+			],
+			[
+				"sub",
+				"subject\t  Variable"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"C",
+				"CAMEROUN"
+			],
+			[
+				"cle",
+				"cleaned_data\t  Variable"
+			],
+			[
+				"clea",
+				"clean_username"
+			],
+			[
+				"My",
+				"MyHomeUserAdmin\t  Class"
+			],
+			[
+				"confirm",
+				"confirm_registration\t  Function"
+			],
+			[
+				"search",
+				"search_fields\t  Variable"
+			],
+			[
+				"list",
+				"list_filter\t  Variable"
+			],
+			[
+				"cur",
+				"current_site\t  Variable"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"de",
+				"description=\t  Variable"
+			],
+			[
+				"log",
+				"logout\t  Function"
+			],
+			[
+				"cone",
+				"connexion"
+			],
+			[
+				"Us",
+				"UserForm\t  Auto-import"
+			],
+			[
+				"FA",
+				"False\t  Keyword"
+			],
+			[
+				"Va",
+				"ValidationError\t  Class"
+			],
+			[
+				"tel",
+				"telephone\t  Variable"
+			],
+			[
+				"super",
+				"superieur"
+			],
+			[
+				"PO",
+				"POST"
+			],
+			[
+				"pr",
+				"profil\t  Reference"
+			],
+			[
+				"use",
+				"username\t  Reference"
+			],
+			[
+				"se",
+				"sexe\t  Reference"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"mo",
+				"model\tmodel"
+			],
+			[
+				"dir",
+				"BASE_DIR"
+			],
+			[
+				"pro",
+				"product/\t  File"
+			],
+			[
+				"pa",
+				"padding\t  Property"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"tex",
+				"textarea\t  Keyword"
+			],
+			[
+				"TE",
+				"text-shadow\tproperty"
+			],
+			[
+				"with",
+				"width\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"line",
+				"linear-gradient()\t  Function"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"b",
+				"block\tDjango template block"
+			],
+			[
+				"e",
+				"extends\textends"
+			],
+			[
+				"me",
+				"meta\t  Property"
+			],
+			[
+				"h",
+				"html\t  Property"
+			],
+			[
+				"conte",
+				"context\t  Variable"
+			],
+			[
+				"sea",
+				"search_input"
+			],
+			[
+				"Te",
+				"text\t  Unit"
+			],
+			[
+				"Reg",
+				"RegisterPage\t  Class"
+			],
+			[
+				"reg",
+				"register.html\t  File"
+			],
+			[
+				"User",
+				"UserCreationForm\t  Class"
+			],
+			[
+				"For",
+				"FormView\t  Class"
+			],
+			[
+				"S",
+				"submit\t  Unit"
+			],
+			[
+				"comp",
+				"complex\t  Class"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"nex",
+				"next_page\t  Variable"
+			],
+			[
+				"Login",
+				"LoginRequiredMixin\t  Class"
+			],
+			[
+				"red",
+				"redirect_authenticated_user\t  Variable"
+			],
+			[
+				"TaskD",
+				"TaskDelete\t  Auto-import"
+			],
+			[
+				"Ta",
+				"Task\t  Class"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Tas",
+				"TaskCreate\t  Class"
+			],
+			[
+				"rever",
+				"reverse_lazy\t  Variable"
+			],
+			[
+				"Cr",
+				"CreateView\t  Class"
+			],
+			[
+				"ta",
+				"Task\t  Class"
+			],
+			[
+				"det",
+				"DetailView\t  Class"
+			],
+			[
+				"T",
+				"Task\t  Class"
+			],
+			[
+				"date",
+				"DateTimeField\t  Class"
+			],
+			[
+				"B",
+				"BooleanField\t  Class"
+			],
+			[
+				"Text",
+				"TextField\t  Class"
+			],
+			[
+				"url",
+				"URLPattern\t  Auto-import"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"Po",
+				"POST"
+			],
+			[
+				"pas",
+				"password\t  Variable"
+			],
+			[
+				"HttpResponse",
+				"HttpResponseRedirect\t  Auto-import"
+			],
+			[
+				"H",
+				"HttpResponse\t  Auto-import"
+			],
+			[
+				"max",
+				"max_length=\t  Variable"
+			],
+			[
+				"__",
+				"__all__"
+			],
+			[
+				"TR",
+				"True\t  Keyword"
+			],
+			[
+				"F",
+				"False\t  Keyword"
+			],
+			[
+				"inf",
+				"InfoReservation\t  Class"
+			],
+			[
+				"s",
+				"signals"
+			],
+			[
+				"pos",
+				"post_save\t  Variable"
+			],
+			[
+				"us",
+				"MyHomeUser\t  Class"
+			],
+			[
+				"Cas",
+				"CASCADE\t  Function"
+			],
+			[
+				"cas",
+				"CASCADE\t  Function"
+			],
+			[
+				"set",
+				"SET_NULL"
+			],
+			[
+				"U",
+				"User\t  Class"
+			],
+			[
+				"on",
+				"OneToOneField\t  Class"
+			],
+			[
+				"ty",
+				"type_logement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "democourse/settings.py",
+			"settings":
+			{
+				"buffer_size": 3569,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "accounts/urls.py",
+			"settings":
+			{
+				"buffer_size": 558,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "serialiser.py",
+			"settings":
+			{
+				"buffer_size": 459,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "democourse/urls.py",
+			"settings":
+			{
+				"buffer_size": 802,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ls",
+				"LSP: Restart Servers"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"dj",
+				"Django: Run Server"
+			],
+			[
+				"sub",
+				"Sublime Merge: File History"
+			],
+			[
+				"djan",
+				"Django: Run Server"
+			],
+			[
+				"run Terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"django:ru",
+				"Django: Run Server"
+			],
+			[
+				"d",
+				"Django: Make Migration"
+			],
+			[
+				"Django:",
+				"Django: Run Server"
+			],
+			[
+				"lsp",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/noutcheu/projectm/demorest",
+		"/home/noutcheu/projectm/demorest/backend",
+		"/home/noutcheu/projectm/demorest/backend/democourse",
+		"/home/noutcheu/projectm/demorest/backend/democourse/accounts",
+		"/home/noutcheu/projectm/demorest/backend/democourse/democourse",
+		"/home/noutcheu/projectm/demorest/src"
+	],
+	"file_history":
+	[
+		"/home/noutcheu/todoapp-task/taskmanager/taskmanager/settings.py",
+		"/home/noutcheu/projectm/demorest/backend/democourse/democourse/urls.py",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/MyHome237/settings.py",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/core/urls.py",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/core/decorators.py",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/core/views.py",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/core/forms.py",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/core/templates/core/inscription.html",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/core/templates/core/connexion.html",
+		"/home/noutcheu/projectm/myhome237/.git/MERGE_MSG",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/core/models.py",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/core/migrations/0005_remove_hote_ville_residence.py",
+		"/home/noutcheu/projectm/myhome237/myhome237/src/core/templates/core/activation_message.html",
+		"/home/noutcheu/projectm/myhome237/src/src/core/forms.py",
+		"/home/noutcheu/projectm/myhome237/src/src/core/models.py",
+		"/home/noutcheu/projectm/myhome237/src/src/core/templates/core/base.html",
+		"/home/noutcheu/projectm/myhome237/src/src/core/views.py",
+		"/home/noutcheu/projectm/myhome237/src/src/core/urls.py",
+		"/home/noutcheu/projectm/myhome237/src/src/core/admin.py",
+		"/home/noutcheu/projectm/myhome237/src/src/core/templates/core/explorer.html",
+		"/home/noutcheu/projectm/myhome237/src/src/core/templates/core/ajout.html",
+		"/home/noutcheu/projectm/myhome237/src/src/core/static/core/css/style.css",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/forms/models.py",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/forms/forms.py",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/forms/__init__.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/testuser.html",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/views/generic/base.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/urls.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/views.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/index.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/base.html",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/contrib/sites/shortcuts.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/models.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/settings.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/urls.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/forms.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/activation_message.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/ajout.html",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/core/mail/message.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/register.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/1index.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/tokens.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/connexion.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/inscription.html",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/contrib/auth/views.py",
+		"/home/noutcheu/Downloads/Calcul-de-MGP-main/MGP.py",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/contrib/auth/forms.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/register_email.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/testmail/templates/testmail/base.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/testmail/urls.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/testmail/templates/testmail/account_activation_email.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/testmail/templates/testmail/signup.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/testmail/views.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/testmail/admin.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/admin.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/testmail/forms.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/testmail/models.py",
+		"/home/noutcheu/.config/sublime-text-3/Packages/GitlabIntegrate/messages/intro.txt",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/activation_email.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/templates/core/signup.html",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/.urls_BASE_17498.py.swp",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/contrib/auth/__init__.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/static/core/css/style.css",
+		"/home/noutcheu/projectm/myn/src/MyHome237/core/templates/core/inscription.html",
+		"/home/noutcheu/projectm/myn/src/MyHome237/core/templates/core/connexion.html",
+		"/home/noutcheu/.config/sublime-text-3/Package Storage/LSP-pyright/12.22.2/language-server/node_modules/pyright/dist/typeshed-fallback/stdlib/re.pyi",
+		"/home/noutcheu/projectm/myn/src/MyHome237/core/views.py",
+		"/home/noutcheu/projectm/myn/src/MyHome237/core/forms.py",
+		"/home/noutcheu/projectm/myn/src/core/views.py",
+		"/home/noutcheu/projectm/myn/src/core/formulaire.py",
+		"/home/noutcheu/todoapp-task/taskmanager/base/views.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/apps.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/signals.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/__init__.py",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/migrations/0002_auto_20210810_1331.py",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/contrib/auth/models.py",
+		"/home/noutcheu/.local/lib/python3.6/site-packages/django/forms/fields.py",
+		"/home/noutcheu/newappdjango/src/customers/models.py",
+		"/home/noutcheu/newappdjango/src/product/models.py",
+		"/home/noutcheu/newappdjango/src/product/admin.py",
+		"/home/noutcheu/newappdjango/src/customers/admin.py",
+		"/home/noutcheu/newappdjango/src/customers/templates/customers/base.html",
+		"/home/noutcheu/newappdjango/src/repport_proj/urls.py",
+		"/home/noutcheu/newappdjango/src/repport_proj/settings.py",
+		"/home/noutcheu/newappdjango/src/templates/nav-bar.html",
+		"/home/noutcheu/newappdjango/src/static/style.css",
+		"/home/noutcheu/tacheapp/taskmanager/base/templates/base/login.html",
+		"/home/noutcheu/tacheapp/taskmanager/base/templates/base/register.html",
+		"/home/noutcheu/tacheapp/Task/ProcFile",
+		"/home/noutcheu/tacheapp/taskmanager/base/templates/base/task_confirm_delete.html",
+		"/home/noutcheu/tacheapp/taskmanager/base/templates/base/main.html",
+		"/home/noutcheu/tacheapp/taskmanager/base/models.py",
+		"/home/noutcheu/tacheapp/taskmanager/base/static/base/style.css",
+		"/home/noutcheu/tacheapp/taskmanager/base/templates/base/task_form.html",
+		"/home/noutcheu/tacheapp/taskmanager/base/views.py",
+		"/home/noutcheu/tacheapp/taskmanager/base/templates/base/task_list.html",
+		"/home/noutcheu/tacheapp/taskmanager/base/templates/base/task.html",
+		"/home/noutcheu/tacheapp/taskmanager/base/urls.py",
+		"/home/noutcheu/tacheapp/taskmanager/taskmanager/settings.py",
+		"/home/noutcheu/tacheapp/taskmanager/base/templates/base/task_detail.html",
+		"/home/noutcheu/tacheapp/taskmanager/base/admin.py",
+		"/home/noutcheu/tacheapp/taskmanager/taskmanager/urls.py",
+		"/home/noutcheu/tacheapp/taskmanager/lesTaches/urls.py",
+		"/home/noutcheu/.config/sublime-text-3/Packages/Terminality/README.md",
+		"/home/noutcheu/.config/sublime-text-3/Packages/TerminalView/README.md",
+		"/home/noutcheu/projectm/myhome237/src/MyHome237/core/formulaire.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/templates/core/base.html",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/templates/core/index.html",
+		"/home/noutcheu/MyHome/src/myhome237/ancien/myhome237/src/core/signals.py",
+		"/home/noutcheu/MyHome/src/myhome237/ancien/myhome237/src/core/formulaire.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/formulaire.py",
+		"/home/noutcheu/MyHome/src/myhome237/ancien/myhome237/src/core/admin.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/admin.py",
+		"/home/noutcheu/MyHome/src/myhome237/ancien/myhome237/src/core/apps.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/apps.py",
+		"/home/noutcheu/MyHome/src/myhome237/ancien/myhome237/src/core/models.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/urls.py",
+		"/home/noutcheu/MyHome/src/myhome237/ancien/myhome237/src/core/urls.py",
+		"/home/noutcheu/MyHome/src/myhome237/ancien/myhome237/src/core/views.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/__init__.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/models.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/tests.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/core/views.py",
+		"/home/noutcheu/MyHome/src/myhome237/ancien/myhome237/src/core/__init__.py",
+		"/home/noutcheu/MyHome/src/myhome237/ancien/myhome237/src/core/tests.py",
+		"/home/noutcheu/projectm/myhome237/MyHome237/MyHome237/settings.py",
+		"/home/noutcheu/MyHome/src/myhome237/p/myhome237/MyHome237/core/models.py",
+		"/home/noutcheu/MyHome/src/myhome237/p/myhome237/MyHome237/MyHome237/urls.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "democourse/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1128,
+								1128
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python"
+								}
+							],
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"lsp-pylsp": "python",
+								"lsp-pyright": ""
+							},
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "accounts/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python"
+								}
+							],
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"lsp-pylsp": "python",
+								"lsp-pyright": ""
+							},
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "serialiser.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python"
+								}
+							],
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"lsp-pylsp": "python",
+								"lsp-pyright": ""
+							},
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "democourse/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								796,
+								796
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python"
+								}
+							],
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"lsp-pylsp": "python",
+								"lsp-pyright": ""
+							},
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 120.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 120.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 120.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 120.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 120.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 120.0
+	},
+	"output.diagnostics":
+	{
+		"height": 86.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "democourse/demorest.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Find Results"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ASin"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
